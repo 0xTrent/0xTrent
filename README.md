@@ -1,7 +1,6 @@
 
 # Hey 👋
 
-### I'm just a 14 year old dev
 
 
 # Socials 
