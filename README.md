@@ -2,6 +2,9 @@
 # Hey 👋
 
 
+# Socials 
+<img src="https://discord.c99.nl/widget/theme-4/851599380670447657.png">
+
 
 # Languages
 
